@@ -533,7 +533,7 @@ public class Calculadora extends javax.swing.JFrame {
                     double res=Double.parseDouble(n1)-Double.parseDouble(n2);
                     txtPantalla.setText(String.valueOf(res));
                     
-                }else if(c=='*'){
+                }if(c=='*'){
                 
                     String n1=cad.substring(0,i);
                     String n2=cad.substring(i+1,cad.length());
