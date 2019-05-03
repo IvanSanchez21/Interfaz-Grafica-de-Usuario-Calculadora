@@ -375,7 +375,7 @@ public class Calculadora extends javax.swing.JFrame {
     }//GEN-LAST:event_btnUnoActionPerformed
 
     private void txtPantallaActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtPantallaActionPerformed
-        // TODO add your handling code here:
+        // TODO add your handling code 
     }//GEN-LAST:event_txtPantallaActionPerformed
 
     private void btnDosActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnDosActionPerformed
